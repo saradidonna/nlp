@@ -7,6 +7,9 @@
 
 > This project aims to train a character-level language model to generate names in Traditional Chinese for people. We downloaded the name list from the website “A List of Chinese Names”(http://technology.chtsai.org/namelist/) as the training dataset. We used Karpathy’s template as a base. Since our data is not Latin-based, there are some changes we had made to get the model to work, such as installment of mpl-tc-fonts to visualize Traditional Chinese characters in the plot. 
 
+## References 
+Model template used is from A. Karpathy's Makemore MLP available at: https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part2_mlp.ipynb
+
 ## Install
 To use this project, you'll need to install the following dependencies:
 
