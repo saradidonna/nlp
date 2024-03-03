@@ -23,8 +23,10 @@ Once Python is installed, you can install the other dependencies using pip.
 
 👤 **Ling Yan Li, Sara Di Donna, Stephen Buttner**
 
-* Github: [@Leticiaeat, saradidonna, sbuttner](https://github.com/Leticiaeat, saradidonna, sbuttner)
-
+* Github: [@Leticiaeat](https://github.com/Leticiaeat)
+* Github: [@saradidonna](https://github.com/saradidonna)
+* Github: [@sbuttner](https://github.com/sbuttner)
+  
 ## 📝 License
 
 Copyright © 2024 [Ling Yan Li, Sara Di Donna, Stephen Buttner](https://github.com/Leticiaeat, saradidonna, sbuttner).<br />
