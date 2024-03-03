@@ -8,10 +8,16 @@
 > This project aims to train a character-level language model to generate names in Traditional Chinese for people. We downloaded the name list from the website “A List of Chinese Names”(http://technology.chtsai.org/namelist/) as the training dataset. We used Karpathy’s template as a base. Since our data is not Latin-based, there are some changes we had made to get the model to work, such as installment of mpl-tc-fonts to visualize Traditional Chinese characters in the plot. 
 
 ## Install
+To use this project, you'll need to install the following dependencies:
 
-```sh
-pip install git+https://github.com/Hsins/mpl-tc-fonts.git 
-```
+- `Python 3.10.12` or higher
+- `matplotlib`: to plot and create diagrams out of the data collected
+- `pytorch`: for tensor computation
+- `mpl-tc-fonts`: package from the ‘Hsins’ GitHub repository (https://github.com/Hsins/mpl-tc-fonts.git)
+
+First, make sure you have Python 3.10.12 installed. You can download it from the [Python website](https://www.python.org/downloads/) or install it via a package manager like [Anaconda](https://www.anaconda.com/products/distribution).
+
+Once Python is installed, you can install the other dependencies using pip.
 
 ## Author
 
