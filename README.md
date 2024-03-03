@@ -32,7 +32,7 @@ Once Python is installed, you can install the other dependencies using pip.
   
 ## 📝 License
 
-Copyright © 2024 [Ling Yan Li, Sara Di Donna, Stephen Buttner](https://github.com/Leticiaeat, saradidonna, sbuttner).<br />
+Copyright © 2024 <br />
 This project is [MIT](https://opensource.org/license/mit) licensed.
 
 ***
