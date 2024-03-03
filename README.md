@@ -19,10 +19,6 @@ pip install git+https://github.com/Hsins/mpl-tc-fonts.git
 
 * Github: [@Leticiaeat, saradidonna, sbuttner](https://github.com/Leticiaeat, saradidonna, sbuttner)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## 📝 License
 
 Copyright © 2024 [Ling Yan Li, Sara Di Donna, Stephen Buttner](https://github.com/Leticiaeat, saradidonna, sbuttner).<br />
